@@ -1,2 +1,6 @@
 Exam.pdf
 aws
+desktopls.txt
+final completion.pages
+h1+h2
+hw3
